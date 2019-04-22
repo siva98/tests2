@@ -1,5 +1,5 @@
 
-package utils
+package main
 
 import (
 	"fmt"
