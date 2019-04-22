@@ -102,3 +102,6 @@ func TestNamespaceRangeIterator(t *testing.T) {
 	assert.Equal(t, index, 4)
 }
 
+func main() {
+}
+
